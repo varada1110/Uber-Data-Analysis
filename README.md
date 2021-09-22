@@ -1,6 +1,6 @@
 <h3> Data Analysis is the process of cleaning, transforming , manipulating data into useful information. </h3>
 <ul>
-  <li>Pandas for data analysis<li>
+  <li>Pandas for data analysis</li>
   <li>Matplotlib for data visualisation</li>
   <li>Seaborn for data visualisation</li>
 </ul>
